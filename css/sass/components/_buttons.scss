@@ -1,0 +1,9 @@
+.button--primary {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black; 
+    padding: 0.5rem 1rem; 
+    background-image: linear-gradient(to right, rgba($orange, 0.9), rgba($orange, 1)); 
+    width: 70%;
+    text-align: center;
+}
